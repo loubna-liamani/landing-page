@@ -2363,7 +2363,7 @@ input, select, textarea {
 			border-radius: 8px;
 			display:  inline-block;
 			width: 90%;
-			height: 453px;
+		
 		}
 
 		.image.left, .image.right {
@@ -3573,3 +3573,7 @@ input, select, textarea {
 			}
 
 		}
+#baotaille {
+	height: 453px;
+	
+}
